@@ -3,6 +3,7 @@
 // @version      0.2
 // @description  Reflow the website header after adblock hides the ads!
 // @author       Hosamn
+// @downloadURL  https://github.com/hosamn/userscripts/raw/main/DlPSgame_Cleaner.user.js
 // @match        *://dlpsgame.com/*
 // @match        *://dlpsgame.org/*
 // @exclude      https://dlpsgame.com/home/
