@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         DlPSgame Cleaner Userscript
-// @version      0.2
+// @name         DlPSgame Cleaner
+// @version      0.3
 // @description  Reflow the website header after adblock hides the ads!
 // @author       Hosamn
 // @downloadURL  https://github.com/hosamn/userscripts/raw/main/DlPSgame_Cleaner.user.js
