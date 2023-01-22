@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Slideshare Downloader
-// @namespace    Slideshare Downloader
+// @namespace    Slideshare Slide Downloader
 // @version      0.4
-// @description  Slideshare Downloader
+// @description  Slideshare Slide Downloader (images)
 // @author       Hosamn Based on DownloadBoxy By QQBoxy
 // @match        https://www.slideshare.net/*
 // @grant        none
