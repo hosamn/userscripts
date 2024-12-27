@@ -30,7 +30,9 @@
     document.getElementById("HTML1").childNodes[7].childNodes[51].remove()
 
     // Remove the big box at page head
-    document.getElementsByClassName("widget-content")[1][1].remove()
+    document.getElementsByClassName("widget-content")[1].remove()
+    // document.getElementById("HTML2").
+    // id('HTML2')/div[@class='widget-content']/div/img
     // https://dlpsgame.com/wp-content/uploads/2015/06/media-51973.jpg
 
     // Increase the size of the Game Name
