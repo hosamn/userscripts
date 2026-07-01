@@ -1,6 +1,6 @@
 # userscripts
 
-check this out:
+check these out:
 
 * https://www.lifewire.com/top-greasemonkey-tampermonkey-user-scripts-4134335
 
