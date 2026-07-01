@@ -8,3 +8,4 @@ check these out:
 * https://greasyfork.org/en/scripts/428243-don-t-track-me-google/post-install
 * https://greasyfork.org/en/scripts/35605-link-untracker/post-install
 * https://greasyfork.org/en/scripts/543471-export-chatgpt-gemini-grok-conversations-as-markdown
+* https://greasyfork.org/en/scripts/571443-youtube-queue-button-restore
